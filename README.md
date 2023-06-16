@@ -18,5 +18,5 @@
 - Realizar consultas e gerar relátorios.
 
 
-### V 1.0.1
+### V 1.0.2
 
