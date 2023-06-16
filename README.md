@@ -16,5 +16,7 @@
 - Visualização de solicitações por stuatus.
 - Alteração de cadastros (apenas para administradores).
 - Realizar consultas e gerar relátorios.
-  
+
+
+### V 1.0.1
 
